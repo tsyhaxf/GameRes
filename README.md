@@ -1,0 +1,2 @@
+# GameRes
+game development resource
